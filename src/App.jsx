@@ -47,10 +47,16 @@ function App() {
       link: 'https://fractional-currency-fe.onrender.com/'
     },
     {
+      title: 'Recoil Script for Rust',
+      description: 'Created a mouse automation script that programmatically offsets cursor movement to simulate recoil compensation, showcasing skills in scripting, event handling, and real-time system interaction.',
+      tech: ['C++', 'WIN32 API', 'DirectX9', "ImGui", "Multithreading"],
+      link: "https://github.com/ryan9987/mousescript"
+    },
+    {
       title: 'Penn State Marketplace (In Progress)',
       description: 'A full-stack marketplace for Penn State students that features secure PSU email verification, categorized listings, and local exchange tools.',
       tech: ['React', 'TypeScript', 'Supabase', "Node.js", "Express"],
-      // link:
+      link: "https://genuine-klepon-84e542.netlify.app/"
     }
   ]
 
