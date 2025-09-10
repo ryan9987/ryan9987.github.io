@@ -108,7 +108,7 @@ function App() {
           <section id="contact" className="contact-section">
             <h2>Get In Touch</h2>
             <p>I'm always excited to connect with new people. Whether you have a project idea, a question, or just want to say hi, feel free to reach out!</p>
-            <a href="mailto:ryan@example.com" className="contact-btn">Say Hello</a>
+            <a href="mailto:oconnorr709@gmail.com" className="contact-btn">Say Hello</a>
           </section>
         </main>
 
