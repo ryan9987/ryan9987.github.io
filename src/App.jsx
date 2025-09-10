@@ -85,7 +85,7 @@ function App() {
         <main className="app-main">
           <section id="about" className="about-section">
             <h2>About Me</h2>
-            <p>I’m a computer science student at Penn State with a strong foundation in software engineering and a growing interest in web development. I enjoy tackling complex problems, exploring new technologies, and turning ideas into practical solutions.</p>
+            <p>I'm a computer science student at Penn State University with an interest in building innovative projects. I enjoy building web applications and am interested in how AI works. I also enjoy spending time outdoors and staying active.</p>
           </section>
 
           <section id="projects" className="projects-section">
